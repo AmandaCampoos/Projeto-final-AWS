@@ -1,11 +1,10 @@
-# Projeto-final-AWS
 
 # Atividade - DevSecOps - Projeto final Aws
 
 ### Desenvolvido por:
-- Amanda Campos
-- Luiz Fernando de Oliveira Cortez
-- Vinicius da Costa Soares
+- Amanda Campos Ximenes
+- Luiz Fernando de Oliveira 
+- Vinicius da Costa 
 
 #### Desafio
 ###### Construção da arquitetura usando as prática Devops e recursos da AWS.
